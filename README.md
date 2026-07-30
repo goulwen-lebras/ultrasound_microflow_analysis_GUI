@@ -4,6 +4,8 @@ A Python desktop application for analyzing ultrasound images and video sequences
 
 This tool was developed in the context of ultrasound microvascular flow imaging research, particularly for the evaluation of perithrombotic inflammation and the follow-up of thrombotic episodes.
 
+DOI : 10.21037/qims-2025-2026
+
 ## Overview
 
 Venous thrombosis is associated with local inflammation, vascular wall remodeling, and perithrombotic microvascularization. Conventional ultrasound is highly effective for diagnosing thrombosis, but it provides limited information about inflammatory activity around the thrombus.
